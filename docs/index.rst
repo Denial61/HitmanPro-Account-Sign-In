@@ -7,7 +7,7 @@ How Do I Sign In to My HitmanPro Account?
 
 Find out how to sign in to your HitmanPro account easily, manage your subscription, and solve common sign-in problems for better security.
 
-.. image:: Sign In:- https://expressvpn.readthedocs.io/en/latest/_images/sign-in.jpg
+.. image:: sign-in.jpg
    :alt: HitmanPro Account Sign In
    :width: 400px
    :align: center
