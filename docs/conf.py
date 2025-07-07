@@ -15,4 +15,4 @@ html_static_path = ['_static']
 html_js_files = [
     'chatbot.js',
 ]
-html_favicon = '_static/acorn tv.jpg'
+html_favicon = '_static/hitman pro.png'
