@@ -1,6 +1,3 @@
-conf.py
- 
- 
 project = 'At&t'
 author = 'Denial'
 release = '1.0'
