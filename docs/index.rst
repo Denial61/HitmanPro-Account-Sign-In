@@ -11,7 +11,7 @@ Find out how to sign in to your HitmanPro account easily, manage your subscripti
    :alt: HitmanPro Account Sign In
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/hitmanpro-account-sign-in
+   :target: https://hitmanproaccount.com
 
 
 HitmanPro is a trusted tool for malware detection and removal, used by many to keep their computers safe from viruses and other threats. To fully benefit from HitmanPro’s features, signing in to your HitmanPro account is important. Your account helps you manage your subscription, track licenses, and access support whenever needed.
